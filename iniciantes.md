@@ -42,7 +42,7 @@ Nesta categoria encontramos principalmente problemas básicos para quem está co
 + [Números Positivos](https://judge.beecrowd.com/pt/problems/view/1060) [[Solução](ini-codes/1060.c)]
 + [Tempo de um Evento](https://judge.beecrowd.com/pt/problems/view/1061) [[Solução](ini-codes/1061.c)]
 + [Positivos e Média](https://judge.beecrowd.com/pt/problems/view/1064) [[Solução](ini-codes/1064.c)]
-+ [Pares entre Cinco Números](https://judge.beecrowd.com/pt/problems/view/1065) [[Solução](ini-codes/1065.c)] [[Solução For](ini-codes/1065 - for.c)]
++ [Pares entre Cinco Números](https://judge.beecrowd.com/pt/problems/view/1065) [[Solução](ini-codes/1065.c)] [[Solução For](ini-codes/1065%20-%20for.c)]
 + [Pares, Ímpares, Positivos e Negativos](https://judge.beecrowd.com/pt/problems/view/1066) [[Solução](ini-codes/1066.c)]
 + [Números Ímpares](https://judge.beecrowd.com/pt/problems/view/1067) [[Solução](ini-codes/1067.c)]
 + [Seis Números Ímpares](https://judge.beecrowd.com/pt/problems/view/1070) [[Solução](ini-codes/1070.c)]
