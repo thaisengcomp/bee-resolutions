@@ -4,3 +4,6 @@ Códigos-fonte usados em algumas submissões do juiz online Beecrowd, na linguag
 1. [Iniciantes](iniciantes.md)
 2. AD-HOC
 3. Strings
+
+# Extras
+1. [Dicas](dicas.md)

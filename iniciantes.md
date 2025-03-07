@@ -21,3 +21,6 @@ Nesta categoria encontramos principalmente problemas básicos para quem está co
 19. [Cédulas](https://judge.beecrowd.com/pt/problems/view/1018) [[Solução](ini-codes/1018.c)]
 20. [Conversão de Tempo](https://judge.beecrowd.com/pt/problems/view/1019) [[Solução](ini-codes/1019.c)]
 21. [Idade em Dias](https://judge.beecrowd.com/pt/problems/view/1020) [[Solução](ini-codes/1020.c)]
+22. [Teste de Seleção 1](https://judge.beecrowd.com/pt/problems/view/1035) [[Solução](ini-codes/1035.c)]
+22. [Fórmula de Bhaskara](https://judge.beecrowd.com/pt/problems/view/1036) [[Solução](ini-codes/1036.c)]
+23. [Intervalo](https://judge.beecrowd.com/pt/problems/view/1037) [[Solução](ini-codes/1037.c)]
