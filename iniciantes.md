@@ -1,11 +1,11 @@
 # Iniciantes
 Nesta categoria encontramos principalmente problemas básicos para quem está começando na programação.
-1. [Hello World!](https://judge.beecrowd.com/pt/problems/view/1000)[{Solução}()]
-2. [Extremamente Básico](https://judge.beecrowd.com/pt/problems/view/1001)[{Solução}()]
-3. [Áre do Círculo](https://judge.beecrowd.com/pt/problems/view/1002)[{Solução}()]
-4. [Soma Simples](https://judge.beecrowd.com/pt/problems/view/1003)[{Solução}()]
-5. [Produto Simples](https://judge.beecrowd.com/pt/problems/view/1004)[{Solução}()]
-6. [Média 1](https://judge.beecrowd.com/pt/problems/view/1005)[{Solução}()]
+1. [Hello World!](https://judge.beecrowd.com/pt/problems/view/1000)[{Solução}(1000.c)]
+2. [Extremamente Básico](https://judge.beecrowd.com/pt/problems/view/1001)[{Solução}(1001.c)]
+3. [Áre do Círculo](https://judge.beecrowd.com/pt/problems/view/1002)[{Solução}(1002.c)]
+4. [Soma Simples](https://judge.beecrowd.com/pt/problems/view/1003)[{Solução}(1003.c)]
+5. [Produto Simples](https://judge.beecrowd.com/pt/problems/view/1004)[{Solução}(1004.c)]
+6. [Média 1](https://judge.beecrowd.com/pt/problems/view/1005)[{Solução}(1005.c)]
 7. [Média 2](https://judge.beecrowd.com/pt/problems/view/1006)[{Solução}()]
 8. [Diferença](https://judge.beecrowd.com/pt/problems/view/1007)[{Solução}()]
 9. [Salário](https://judge.beecrowd.com/pt/problems/view/1008)[{Solução}()]
