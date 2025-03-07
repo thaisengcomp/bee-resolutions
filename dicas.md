@@ -4,7 +4,7 @@ Alguns erros comuns podem causar comportamentos inesperados. Aqui estão algumas
 ## Gerais
 + Verifique se as bibliotecas foram inseridas corretamente, bem como ponto e vírgulas, parênteses e chaves.
 + Variáveis não inicializadas contêm lixo de memória, o que pode levar ao comportamento inesperado de um programa. Inicialize-os corretamente (atenção especial aos códigos com **estruturas de repetição**).
-+ A utilização do `&` é essencial na leitura de alguns tipos de dados, enquanto na saída é necessário em apenas alguns casos (como acessar o **endereço de memória** de uma variável). Saídas inesperadas podem estar relacionadas a isso.
++ A utilização do `&` é essencial na leitura na maioria dos dados simples, enquanto na saída é necessário em apenas alguns casos (como acessar o **endereço de memória** de uma variável). Saídas inesperadas podem estar relacionadas a isso.
 
 ## Laços de Repetição
 + Verificar se a condição de parada foi desenvolvida corretamente, caso contrário pode levar a loops infinitos.
