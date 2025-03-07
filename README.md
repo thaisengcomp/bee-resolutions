@@ -7,7 +7,6 @@ Códigos-fonte usados em algumas submissões do juiz online Beecrowd, na linguag
 3. [Strings](strings.md)
 4. [Estruturas e Bibliotecas](estbib.md)
 5. [Matemática](mat.md)
-6. [Paradigmas](paradig.md)
 
 # Extras
 1. [Dicas](dicas.md)
