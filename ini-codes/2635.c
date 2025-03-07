@@ -8,9 +8,7 @@ int main () {
     int n_pal, q_con, i, j;
     int ans, maior;
 
-    scanf("%d", &n_pal);
-
-    while(n_pal != EOF){
+    while(scanf("%d", &n_pal) != EOF){
         getchar();
 
         for(i=0; i<n_pal; i++){
@@ -42,8 +40,6 @@ int main () {
                 printf("%d %d\n", ans, maior);
             }
         }
-
-        scanf("%d", &n_pal);
     }
 
     return 0;
