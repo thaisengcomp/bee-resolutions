@@ -36,7 +36,7 @@ Nesta categoria encontramos principalmente problemas básicos para quem está co
 + [Beecrowd 1047 - Tempo de Jogo com Minutos](https://judge.beecrowd.com/pt/problems/view/1047) [[Solução](ini-codes/1047.c)]
 + [Beecrowd 1048 - Aumento de Salário](https://judge.beecrowd.com/pt/problems/view/1048) [[Solução](ini-codes/1048.c)]
 + [Beecrowd 1049 - Animal](https://judge.beecrowd.com/pt/problems/view/1049) [[Solução](ini-codes/1049.c)]
-+ [DDD](https://judge.beecrowd.com/pt/problems/view/1050) [[Solução](ini-codes/1050.c)]
++ [Beecrowd 1050 - DDD](https://judge.beecrowd.com/pt/problems/view/1050) [[Solução](ini-codes/1050.c)]
 + [Beecrowd 1051 - Imposto de Renda](https://judge.beecrowd.com/pt/problems/view/1051) [[Solução](ini-codes/1051.c)]
 + [Beecrowd 1052 - Mês](https://judge.beecrowd.com/pt/problems/view/1052) [[Solução](ini-codes/1052.c)]
 + [Beecrowd 1059 - Números Pares](https://judge.beecrowd.com/pt/problems/view/1059) [[Solução](ini-codes/1059.c)]
