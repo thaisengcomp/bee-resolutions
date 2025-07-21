@@ -34,4 +34,12 @@ while(scanf("%d", &n_pal) != EOF){}
 Também pode ocorrer com a situação contrária, sendo o erro o `scanf` no interior do `while`.
 
 ## Runtime Error
-+ Geralmente ocorre por acessos indevidos a índices do vetor, sendo ele unidimensional ou matriz, como em exercícios de Fibbonacci. Se precisa interagir um índice com o próximo, lembre-se de que a última posição do vetor não poderá ser somada ao sucessor, já que ele não existe. O mesmo vale quando deve-se interagir com a posição anterior, em que o <ins>primeiro índice</ins> não possui antecessor. 
++ Geralmente ocorre por acessos indevidos a índices do vetor, sendo ele unidimensional ou matriz, como em exercícios de Fibbonacci. Se precisa interagir um índice com o próximo, lembre-se de que a última posição do vetor não poderá ser somada ao sucessor, já que ele não existe. O mesmo vale quando deve-se interagir com a posição anterior, em que o <ins>primeiro índice</ins> não possui antecessor.
++ Em problemas com estruturas de repetição como `for`, o índex (int i = 0, etc) não pode ser usado dentro dele como estrutura aninhada. O compilador precisa que a variável utilizada seja diferente, pois a alteração no laço interno também altera o externo. Exemplo de um código com erro:
+```
+for(i = 0; i < n; i++){
+    for(i = 0; i < m; i++){
+        printf("%d", i);
+    }
+}
+```
