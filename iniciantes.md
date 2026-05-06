@@ -3,7 +3,7 @@ Nesta categoria encontramos principalmente problemas básicos para quem está co
 
 + [Beecrowd 1000 - Hello World!](https://judge.beecrowd.com/pt/problems/view/1000) [[Solução](ini-codes/1000.c)]
 + [Beecrowd 1001 - Extremamente Básico](https://judge.beecrowd.com/pt/problems/view/1001) [[Solução](ini-codes/1001.c)]
-+ [Beecrowd 1002 - Áre do Círculo](https://judge.beecrowd.com/pt/problems/view/1002) [[Solução](ini-codes/1002.c)]
++ [Beecrowd 1002 - Área do Círculo](https://judge.beecrowd.com/pt/problems/view/1002) [[Solução](ini-codes/1002.c)]
 + [Beecrowd 1003 - Soma Simples](https://judge.beecrowd.com/pt/problems/view/1003) [[Solução](ini-codes/1003.c)]
 + [Beecrowd 1004 - Produto Simples](https://judge.beecrowd.com/pt/problems/view/1004) [[Solução](ini-codes/1004.c)]
 + [Beecrowd 1005 - Média 1](https://judge.beecrowd.com/pt/problems/view/1005) [[Solução](ini-codes/1005.c)]
