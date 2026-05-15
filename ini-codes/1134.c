@@ -1,34 +1,33 @@
 #include <stdio.h>
 
-int main (){
+int main () {
 
-    int n, alcool, gasolina, diesel;
+    int qtd_gas = 0, qtd_dies = 0, qtd_alc = 0;
+    int num;
 
-    scanf("%d", &n);
+    scanf("%d", &num);
 
-    alcool= 0;
-    gasolina = 0;
-    diesel = 0;
+    while(num != 4){
+            while(num < 1 || num > 4){
+                scanf("%d", &num);
+            }
 
-    while(n != 4){
+            if(num == 1){
+                qtd_alc++;
+            } else if(num == 2){
+                qtd_gas++;
+            } else if(num == 3){
+                qtd_dies++;
+            }
 
-        if(n == 1){
-            alcool += 1;
-        }
-        if(n == 2){
-            gasolina += 1;
-        }
-        if(n == 3){
-            diesel += 1;
-        }
-
-        scanf("%d", &n);
+        scanf("%d", &num);
     }
 
     printf("MUITO OBRIGADO\n");
-    printf("Alcool: %d\n", alcool);
-    printf("Gasolina: %d\n", gasolina);
-    printf("Diesel: %d\n", diesel);
+    printf("Alcool: %d\n", qtd_alc);
+    printf("Gasolina: %d\n", qtd_gas);
+    printf("Diesel: %d\n", qtd_dies);
 
     return 0;
 }
+
