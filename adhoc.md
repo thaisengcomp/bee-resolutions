@@ -8,6 +8,7 @@ Nesta categoria encontramos problemas de simulação, datas e Ad-Hoc (soluções
 + [Beecrowd 1192 - O Jogo Matemático de Paula](https://judge.beecrowd.com/pt/problems/view/1192) [[Solução](adhoc-codes/1192.c)]
 + [Beecrowd 1329 - Cara ou Coroa](https://judge.beecrowd.com/pt/problems/view/1329) [[Solução](adhoc-codes/1329.c)]
 + [Beecrowd 1387 - Og](https://judge.beecrowd.com/pt/problems/view/1387) [[Solução](adhoc-codes/1387.c)]
++ [Beecrowd 1366 - Jpgp de Varetas](https://judge.beecrowd.com/pt/problems/view/1366) [[Solução](adhoc-codes/1366.c)]
 + [Beecrowd 1397 - Jogo do Maior](https://judge.beecrowd.com/pt/problems/view/1397) [[Solução](adhoc-codes/1397.c)]
 + [Beecrowd 1403 - Meu Avô é Famoso](https://judge.beecrowd.com/pt/problems/view/1403) [[Solução](adhoc-codes/1403.c)]
 + [Beecrowd 1437 - Esquerda,Volver!!](https://judge.beecrowd.com/pt/problems/view/1437) [[Solução](adhoc-codes/1437.c)]
